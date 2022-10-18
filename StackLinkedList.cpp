@@ -1,10 +1,3 @@
-/* 
-2440021376_Denzel Caesarian Iswanto Suhardjo
-LI01 - Data Structure (COMP6048)
-
-Topic   : Stack Linked List
-*/
-
 #include <stdio.h>
 #include <stdlib.h>
 
